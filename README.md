@@ -1,10 +1,10 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
 <h1 align="center">Hi 👋, I'm Sanoj Ahamed</h1>
  
-                      Full Stack Developer | Tech Enthusiast | UI/UX Designer | Innovator
+                         Full Stack Developer | Tech Enthusiast | UI/UX Designer | Innovator
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png">
 
-<p><b>As a Passionate developer, I'm always seeking to create magic with code and push the boundaries of what's possible with 0's and 1's. My GitHub Profile is a testament to My Journey as a developer, as evidenced by the green dots that mark my progress and growth. Whether I'm working on a personal project or collaborating with others, I approach every challenge with curiosity, creativity, and a commitment to excellence. Let's build something amazing together!</b></p>
+<p><b>As a Passionate Software developer, I'm always seeking to create magic with code and push the boundaries of what's possible with 0's and 1's. My GitHub Profile is a testament to My Journey as a developer, as evidenced by the green dots that mark my progress and growth. Whether I'm working on a personal project or collaborating with others, I approach every challenge with curiosity, creativity, and a commitment to excellence. Let's build something amazing together!</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanojahamed&label=Profile%20views&color=0e75b6&style=flat" alt="sanojahamed" /> </p>
 
@@ -12,13 +12,13 @@
 
 - 🎓 I'm pursuing My **B.Sc(Hons) in Industrial Information Technology at Uva Wellassa University of Srilanka**
 
-- 🔭 I’m currently working on **MERN Stack Projects & IOT Projects**
+- 🔭 I’m currently working on **Deep Learning Projects & IOT Projects**
 
 - 🌱 I’m currently learning **Full Stack Web Engineering**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 💬 Ask me about **Arduino,Java Script, ReactJS, NodeJs**
+- 💬 Ask me about **python, ReactJS, nextjs, NodeJs**
 
 - 📫 How to reach me **sanojahamed1730@gmail.com**
 
